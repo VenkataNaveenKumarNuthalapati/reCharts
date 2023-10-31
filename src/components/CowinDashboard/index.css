@@ -1,0 +1,14 @@
+.logo {
+  height: 30px;
+  width: 30px;
+}
+.bg-container {
+  min-height: 100vh;
+  background-color: #161625;
+  padding: 40px;
+  color: white;
+}
+
+.fail-image {
+  width: 100%;
+}
